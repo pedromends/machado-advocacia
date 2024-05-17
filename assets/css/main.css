@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+  html {
+    font-family: Poppins;
+    src: url("./fonts/Poppins-Regular.ttf");
+  }
+} */
+
+@font-face {
+  font-family: DM Serif Display;
+  src: url("../fonts/DMSerifDisplay-Regular.ttf");
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  src: url("../fonts/NunitoSans-Variable.ttf");
+}
+
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url("../fonts/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url("../fonts/Poppins-Bold.ttf");
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: DM Serif Display;
+}
+
+p,
+span,
+label,
+input,
+textarea,
+a,
+button,
+li {
+  font-family: Nunito Sans;
+}
