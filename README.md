@@ -1,42 +1,44 @@
-# Nuxt 3 Minimal Starter
+# Machado Corrêa Advocacia
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Aplicativo desenvolvido em Nuxt apra a Barbosa Software como Freelancer, este projeto foram aplicados `Javascript`, `TailwindCSS`, `Nuxt.js`, também usei bastante uma biblioteca de componentes chamada `FlowbiteUI`, que consome `TailwindCSS` pra construções dos componentes, a aplicação também é `responsiva`.
 
-## Setup
+*Projeto ainda em Desenvolvimento*
 
-Make sure to install the dependencies:
+# Executando...
 
-```bash
-# yarn
-yarn install
+ Abaixo veja algumas imagens do site.
 
-# npm
-npm install
+### Home Page
 
-# pnpm
-pnpm install
-```
+![image](./assets/prints/1.png)
 
-## Development Server
+### Sobre nós ?
 
-Start the development server on `http://localhost:3000`
+![image](./assets/prints/2.png)
 
-```bash
-npm run dev
-```
+### Manu - Falência
 
-## Production
+![image](./assets/prints/3.png)
 
-Build the application for production:
+### Menu - Especialidades
 
-```bash
-npm run build
-```
+![image](./assets/prints/4.png)
 
-Locally preview production build:
+### Blog
 
-```bash
-npm run preview
-```
+![image](./assets/prints/5.png)
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+# Instalação
+
+1. Com o Node.js e o Nuxt.js instalado na sua máquina, rode os comandos
+2. Faça o [Download](https://www.nerdfonts.com/font-downloads) do projeto contigo neste repositório e o abra no editor de texto de sua preferência.
+
+    ```sh
+    npm install
+    npm run serve
+    ```
+
+# Autores
+
+João Pedro Souza
